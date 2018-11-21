@@ -1,0 +1,6 @@
+C:\Users\antra\Desktop\AsposeTest\AsposeTest\bin\Debug\AsposeTest.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTest\bin\Debug\AsposeTest.pdb
+C:\Users\antra\Desktop\AsposeTest\AsposeTest\obj\Debug\AsposeTest.csprojAssemblyReference.cache
+C:\Users\antra\Desktop\AsposeTest\AsposeTest\obj\Debug\AsposeTest.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\AsposeTest\AsposeTest\obj\Debug\AsposeTest.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTest\obj\Debug\AsposeTest.pdb

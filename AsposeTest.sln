@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeTest", "AsposeTest\AsposeTest.csproj", "{0A81238E-CAB5-48C1-AB33-05784740CB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeTestTests", "AsposeTestTests\AsposeTestTests.csproj", "{B94022EF-965E-4D03-90CC-142B5AF2EABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A81238E-CAB5-48C1-AB33-05784740CB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A81238E-CAB5-48C1-AB33-05784740CB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A81238E-CAB5-48C1-AB33-05784740CB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A81238E-CAB5-48C1-AB33-05784740CB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94022EF-965E-4D03-90CC-142B5AF2EABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94022EF-965E-4D03-90CC-142B5AF2EABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94022EF-965E-4D03-90CC-142B5AF2EABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94022EF-965E-4D03-90CC-142B5AF2EABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5782BF8F-103E-4FBC-9D16-DE8813854051}
+	EndGlobalSection
+EndGlobal

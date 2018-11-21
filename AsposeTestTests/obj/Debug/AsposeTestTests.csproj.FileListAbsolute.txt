@@ -1,0 +1,16 @@
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\obj\Debug\AsposeTestTests.csprojAssemblyReference.cache
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\obj\Debug\AsposeTestTests.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\AsposeTestTests.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\AsposeTestTests.pdb
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\AsposeTest.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\AsposeTest.pdb
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\obj\Debug\AsposeTestTests.csproj.CopyComplete
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\obj\Debug\AsposeTestTests.dll
+C:\Users\antra\Desktop\AsposeTest\AsposeTestTests\obj\Debug\AsposeTestTests.pdb
